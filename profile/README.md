@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/CodexoTecnologiaLTDA/.github/blob/main/assets/CodexoLogo.png?raw=true" alt="Logo da Codexo" width="200"/>
-</p>
-
 <h1 align="center">Bem-vindo à Codexo!</h1>
 
 <p align="center">
